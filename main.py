@@ -10,6 +10,16 @@ import pickle
 import requests
 from datetime import date, datetime
 
+origins = ["*"]
+
+app.add_middleware(
+    CORSHiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # load the nlp model and tfidf vectorizer from disk
 filename = 'nlp_model.pkl'
 clf = pickle.load(open(filename, 'rb'))
