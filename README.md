@@ -1,4 +1,4 @@
-# The-Movie-Cinema
+# Movie-Recommendation-Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
@@ -27,6 +27,12 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 4. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 6. Hurray! That's it.
+
+## Architecture
+![Screenshot 2023-03-28 074927](https://user-images.githubusercontent.com/57705751/228110402-6a828be6-ab1b-44c5-9de3-1150117913e4.png)
+
+
+
 
 ### Sources of the datasets 
 
