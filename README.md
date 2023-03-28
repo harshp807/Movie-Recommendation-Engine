@@ -43,7 +43,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ![Screenshot 2023-03-28 075310](https://user-images.githubusercontent.com/57705751/228110824-6bba7427-b564-4f8f-9cf2-ce7966f1e4a2.png)
 
 
-### Sources of the datasets ![Uploading Screenshot 2023-03-28 075310.png…]()
+### Sources of the datasets
 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
